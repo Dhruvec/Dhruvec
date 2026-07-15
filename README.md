@@ -6,15 +6,17 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+LangChain+%26+LangGraph;RAG+Pipelines+%7C+AI+Agents+%7C+LLM+Evaluation;Turning+Prompts+into+Production+Systems&font=Fira%20Code&center=true&width=650&height=45&color=13547a&vCenter=true&size=22&pause=1200"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-13547a?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio2003-cxm111zcl-dhruvecs-projects.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0093E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-ai/)
-[![Email](https://img.shields.io/badge/Email-80D0C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvc17745@gmail.com)
+<a href="https://www.linkedin.com/in/dhruv-ai/">
+  <img src="assets/linkedin-button.svg" width="180" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Dhruvec">
+  <img src="assets/github-button.svg" width="180" alt="GitHub"/>
+</a>
+<a href="https://portfolio2003-cxm111zcl-dhruvecs-projects.vercel.app/">
+  <img src="assets/portfolio-nav-button.svg" width="180" alt="Portfolio"/>
+</a>
 
 </div>
 
