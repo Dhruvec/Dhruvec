@@ -141,7 +141,9 @@ End-to-end LLM hallucination detection & correction pipeline combining multi-sam
 
 I built an animated **liquid / 3D portfolio site** — check it out for the interactive version of everything above.
 
-[![Visit Portfolio](https://img.shields.io/badge/🌊%20Enter%20the%20Portfolio-13547a?style=for-the-badge)](https://portfolio2003-cxm111zcl-dhruvecs-projects.vercel.app/)
+<a href="https://portfolio2003-cxm111zcl-dhruvecs-projects.vercel.app/">
+  <img src="assets/liquid-button.svg" width="420" alt="Enter the Portfolio"/>
+</a>
 
 </div>
 
