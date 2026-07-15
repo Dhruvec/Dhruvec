@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,50:80D0C7,100:13547a&height=220&section=header&text=Hi%20There,%20I'm%20Dhruv&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20GenAI%20%2F%20LLM%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E4F,50:27AE60,100:A8E063&height=220&section=header&text=Hi%20There,%20I'm%20Dhruv&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20GenAI%20%2F%20LLM%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://www.linkedin.com/in/dhruv-ai/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+LangChain+%26+LangGraph;RAG+Pipelines+%7C+AI+Agents+%7C+LLM+Evaluation;Turning+Prompts+into+Production+Systems&font=Fira%20Code&center=true&width=650&height=45&color=13547a&vCenter=true&size=22&pause=1200"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+LangChain+%26+LangGraph;RAG+Pipelines+%7C+AI+Agents+%7C+LLM+Evaluation;Turning+Prompts+into+Production+Systems&font=Fira%20Code&center=true&width=650&height=45&color=0B6E4F&vCenter=true&size=22&pause=1200"/>
 </a>
 
 <br/><br/>
@@ -39,7 +39,7 @@ I'm a Computer Science undergraduate specializing in **Generative AI, LLM applic
 
 ### 💼 Currently
 
-<img src="https://img.shields.io/badge/Ethara%20AI-Post%20LLM%20Intern-0093E9?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethara%20AI-Post%20LLM%20Intern-27AE60?style=flat-square&logo=openai&logoColor=white"/>
 
 Working as an **LLM Post-Training Intern**, contributing to model post-training and evaluation workflows — evaluating outputs for reasoning accuracy and instruction adherence, and supporting structured benchmarking pipelines.
 
@@ -89,8 +89,8 @@ End-to-end LLM hallucination detection & correction pipeline combining multi-sam
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-0093E9?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-80D0C7?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-27AE60?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-A8E063?style=for-the-badge)
 
 **Machine Learning**
 
@@ -108,9 +108,9 @@ End-to-end LLM hallucination detection & correction pipeline combining multi-sam
 
 **Frontend & Web**
 
-![React](https://img.shields.io/badge/React-13547a?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-0B6E4F?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0093E9?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-27AE60?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Cloud & Tools**
@@ -127,12 +127,12 @@ End-to-end LLM hallucination detection & correction pipeline combining multi-sam
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhruvec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=80D0C7&icon_color=0093E9&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=80D0C7&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhruvec&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=A8E063&icon_color=27AE60&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvec&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=A8E063&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvec&theme=tokyonight&hide_border=true&background=0D1117&stroke=0093E9&ring=80D0C7&fire=13547a&currStreakLabel=80D0C7"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvec&theme=merko&hide_border=true&background=0D1117&stroke=27AE60&ring=A8E063&fire=0B6E4F&currStreakLabel=A8E063"/>
 </div>
 
 <br/>
@@ -149,6 +149,6 @@ I built an animated **liquid / 3D portfolio site** — check it out for the inte
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13547a,50:80D0C7,100:0093E9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E4F,50:A8E063,100:27AE60&height=120&section=footer" width="100%"/>
 
 </div>
