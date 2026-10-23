@@ -14,7 +14,7 @@
 <a href="https://github.com/Dhruvec">
   <img src="Github_button.svg" width="180" alt="GitHub"/>
 </a>
-<a href="https://portfolio2003-cxm111zcl-dhruvecs-projects.vercel.app/">
+<a href="https://main.d2bdb2r3emrmsw.amplifyapp.com/">
   <img src="Portfolio_button.svg" width="180" alt="Portfolio"/>
 </a>
 
